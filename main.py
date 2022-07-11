@@ -25,7 +25,7 @@ except ModuleNotFoundError:
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="debanjan")
+    password="password")
 
 mycursor = mydb.cursor()
 mycursor2= mydb.cursor(buffered=True)
