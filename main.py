@@ -44,8 +44,8 @@ body = '''
         sicerely yours
         Electronic Store
         '''
-sender = 'debarock900@gmail.com'
-password = 'deqhdzzepowmsyzs'
+sender = 'email'
+password = 'password'
 cust_list = ["name", "phone", "email"]
 item_list = ["item name", "price", "stock"]
 sale_list = ["customer ID", "mode of payment"]
